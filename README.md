@@ -3,7 +3,7 @@ My name is Evelyn Pereira 👩🏻🌻
 
 I'm studying Front-end development 💻
 
-📍 From Rio de Janeiro, Brasil
+📍 From Rio de Janeiro, Brasil - living in Lisboa, Portugal
 
 🌼 Reach me out: <a href="https://www.linkedin.com/in/evelyncper/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
 
