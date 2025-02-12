@@ -1,7 +1,7 @@
 #  Hello! ✨
 My name is Evelyn Pereira 👩🏻🌻
 
-I'm studying Front-end development 💻
+I'm a Software Quality Assurance Tester and currently studying test automation 💻
 
 📍 From Rio de Janeiro, Brasil - living in Lisboa, Portugal
 
